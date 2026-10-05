@@ -77,7 +77,7 @@ server:
   port: 8080
 ```
 
-> ⚠️ No subas tu API Key al repositorio. Si la expones por error, elimínala en la consola de Groq y genera una nueva.
+
 
 ### Definir la variable de entorno
 
